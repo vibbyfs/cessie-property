@@ -1,0 +1,22 @@
+[
+  {
+    "label": "Residential",
+    "type": "asset"
+  },
+  {
+    "label": "Commercial",
+    "type": "cessie"
+  },
+  {
+    "label": "Industrial",
+    "type": "auction"
+  },
+  {
+    "label": "Agricultural",
+    "type": "asset"
+  },
+  {
+    "label": "Land",
+    "type": "auction"
+  }
+]
